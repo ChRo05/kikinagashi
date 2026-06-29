@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>都立教員論文 聞き流し（自分用）</title>
+    <link>https://USERNAME.github.io/REPO/</link>
+    <language>ja</language>
+    <description>都立教員論文対策の聞き流し。第1部 基礎知識編（34問）と第2部 模範論文編（採用12編・主任10編）を、先生と受験生の掛け合いで。学習用の非公開フィード。</description>
+    <itunes:author>自分用</itunes:author>
+    <itunes:summary>基礎知識＋模範論文の聞き流し（学習用・非公開）。</itunes:summary>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://USERNAME.github.io/REPO/cover.jpg"/>
+    <itunes:category text="Education"/>
+    <itunes:block>Yes</itunes:block>
+    <itunes:owner><itunes:name>自分用</itunes:name></itunes:owner>
+
+    <item>
+      <title>EP0 イントロ＋合格論文の型</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://USERNAME.github.io/REPO/ep0.mp3" length="1017345" type="audio/mpeg"/>
+      <guid isPermaLink="false">toritsu-ronbun-ep0</guid>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
+      <itunes:duration>0:01:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EP1 基礎知識① 大綱・教育ビジョン</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://USERNAME.github.io/REPO/ep1.mp3" length="2098197" type="audio/mpeg"/>
+      <guid isPermaLink="false">toritsu-ronbun-ep1</guid>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
+      <itunes:duration>0:02:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EP2 基礎知識② 教師像・働き方改革・主任教諭制度</title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://USERNAME.github.io/REPO/ep2.mp3" length="1330218" type="audio/mpeg"/>
+      <guid isPermaLink="false">toritsu-ronbun-ep2</guid>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0900</pubDate>
+      <itunes:duration>0:01:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EP3 基礎知識③ 論文の評価・データ・施策</title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://USERNAME.github.io/REPO/ep3.mp3" length="2685961" type="audio/mpeg"/>
+      <guid isPermaLink="false">toritsu-ronbun-ep3</guid>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0900</pubDate>
+      <itunes:duration>0:03:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EP4 採用版 前半（第1〜6編）</title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://USERNAME.github.io/REPO/ep4.mp3" length="7456633" type="audio/mpeg"/>
+      <guid isPermaLink="false">toritsu-ronbun-ep4</guid>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0900</pubDate>
+      <itunes:duration>0:10:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EP5 採用版 後半（第7〜12編）</title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://USERNAME.github.io/REPO/ep5.mp3" length="6576098" type="audio/mpeg"/>
+      <guid isPermaLink="false">toritsu-ronbun-ep5</guid>
+      <pubDate>Sat, 27 Jun 2026 09:00:00 +0900</pubDate>
+      <itunes:duration>0:09:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EP6 主任版 前半（第13〜17編）</title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://USERNAME.github.io/REPO/ep6.mp3" length="5954803" type="audio/mpeg"/>
+      <guid isPermaLink="false">toritsu-ronbun-ep6</guid>
+      <pubDate>Sun, 28 Jun 2026 09:00:00 +0900</pubDate>
+      <itunes:duration>0:08:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EP7 主任版 後半（第18〜22編）</title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://USERNAME.github.io/REPO/ep7.mp3" length="6914960" type="audio/mpeg"/>
+      <guid isPermaLink="false">toritsu-ronbun-ep7</guid>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0900</pubDate>
+      <itunes:duration>0:09:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
